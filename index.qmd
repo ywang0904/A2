@@ -1,5 +1,20 @@
 ---
 title: "A2"
+image: mypicture.jpg
+about:
+  template: jolla
+  image-width: 10em
+  image-shape: round
+  links:
+  - icon: envelope 
+    text: Email  
+    href: mailto:ywang654@uic.edu  # 你的电子邮件地址
+  - icon: linkedin
+    text: LinkedIn
+    href: https://www.linkedin.com/in/%E8%AF%AD%E9%9C%8F-%E7%8E%8B-b125292ba/  # 你的LinkedIn地址
+  - icon: github
+    text: GitHub
+    href: https://github.com/ywang0904/A2  # 你的GitHub地址
 ---
 
 This is a Quarto website.
@@ -7,7 +22,7 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
-library(usethis)
-use_git() 
 
-1```
+
+
+```
