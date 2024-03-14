@@ -17,9 +17,6 @@ about:
     href: https://github.com/ywang0904/A2  # 你的GitHub地址
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 
